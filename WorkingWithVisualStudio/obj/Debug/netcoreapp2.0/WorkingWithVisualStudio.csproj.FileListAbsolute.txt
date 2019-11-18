@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.deps.json
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.json
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.dev.json
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csprojAssemblyReference.cache
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfo.cs
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb

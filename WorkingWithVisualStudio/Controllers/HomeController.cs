@@ -6,7 +6,8 @@ namespace WorkingWithVisualStudio.Controllers {
     public class HomeController : Controller {
         public IRepository Repository = SimpleRepository.SharedRepository;
 
-        public IActionResult Index() => View(Repository.Products);
+        // added . Where with price parameter
+        public IActionResult Index() => View(Repository.Products.Where(p => p?.Price < 50));
 
         [HttpGet]
         public IActionResult AddProduct() => View(new Product());

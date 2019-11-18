@@ -1,0 +1,17 @@
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.deps.json
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.json
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csprojAssemblyReference.cache
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csproj.CopyComplete
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Student\Documents\RiverRay\Lab7TestingMVC\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb

@@ -8,7 +8,13 @@ using Moq;
 
 namespace WorkingWithVisualStudio.Tests {
     public class HomeControllerTests {
-
+        [Fact]
+        public void IndexActionModelIsComplete()
+        {
+            // Arrange
+            // Act
+            // Assert
+        }
         [Theory]
         [ClassData(typeof(ProductTestData))]
         public void IndexActionModelIsComplete(Product[] products) {
