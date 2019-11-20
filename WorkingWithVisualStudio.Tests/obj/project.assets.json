@@ -5266,7 +5266,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "Microsoft.AspNetCore.All": "2.0.0"
+          "Microsoft.AspNetCore.All": "2.0.0",
+          "xunit": "2.2.0"
         },
         "compile": {
           "bin/placeholder/WorkingWithVisualStudio.dll": {}
